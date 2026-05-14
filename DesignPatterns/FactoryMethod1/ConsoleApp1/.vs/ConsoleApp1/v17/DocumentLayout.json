@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|c:\\users\\doutg\\onedrive\\desktop\\factorymethod1\\consoleapp1\\concretecreator\\lanchefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|solutionrelative:concretecreator\\lanchefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|c:\\users\\doutg\\onedrive\\desktop\\factorymethod1\\consoleapp1\\creator\\lanchefactorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|solutionrelative:creator\\lanchefactorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|c:\\users\\doutg\\onedrive\\desktop\\factorymethod1\\consoleapp1\\concreteproduct\\bauru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|solutionrelative:concreteproduct\\bauru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|c:\\users\\doutg\\onedrive\\desktop\\factorymethod1\\consoleapp1\\product\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9353A16-77B6-466B-947F-CC11D59CF5AF}|ConsoleApp1.csproj|solutionrelative:product\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LancheFactoryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\Creator\\LancheFactoryMethod.cs",
+              "RelativeDocumentMoniker": "Creator\\LancheFactoryMethod.cs",
+              "ToolTip": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\Creator\\LancheFactoryMethod.cs",
+              "RelativeToolTip": "Creator\\LancheFactoryMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:02:56.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LancheFactory.cs",
+              "DocumentMoniker": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\ConcreteCreator\\LancheFactory.cs",
+              "RelativeDocumentMoniker": "ConcreteCreator\\LancheFactory.cs",
+              "ToolTip": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\ConcreteCreator\\LancheFactory.cs",
+              "RelativeToolTip": "ConcreteCreator\\LancheFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:02:50.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bauru.cs",
+              "DocumentMoniker": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\ConcreteProduct\\Bauru.cs",
+              "RelativeDocumentMoniker": "ConcreteProduct\\Bauru.cs",
+              "ToolTip": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\ConcreteProduct\\Bauru.cs",
+              "RelativeToolTip": "ConcreteProduct\\Bauru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:02:29.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lanche.cs",
+              "DocumentMoniker": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\Product\\Lanche.cs",
+              "RelativeDocumentMoniker": "Product\\Lanche.cs",
+              "ToolTip": "C:\\Users\\doutg\\OneDrive\\Desktop\\FactoryMethod1\\ConsoleApp1\\Product\\Lanche.cs",
+              "RelativeToolTip": "Product\\Lanche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:02:12.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
