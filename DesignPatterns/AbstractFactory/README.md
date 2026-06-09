@@ -29,9 +29,7 @@ mente quer permitir uma futura escalabilidade.
 
 
 
-109 Padrões de projeto criacionais / Abstract Factory #49888
 
-endrickgb97@gmail.com (#49888)
 
 O Abstract Factory fornece a você uma interface para a criação
 de objetos de cada classe das famílias de produtos. Desde que
@@ -68,7 +66,7 @@ métodos de criação para todos os produtos abstratos.
 
 110 Padrões de projeto criacionais / Abstract Factory #49888
 
-endrickgb97@gmail.com (#49888)
+
 
 4. Implemente um conjunto de classes fábricas concretas, uma
 para cada variante de produto.
@@ -112,7 +110,7 @@ das junto com o padrão.
 
 111 Padrões de projeto criacionais / Abstract Factory #49888
 
-endrickgb97@gmail.com (#49888)
+
 
 Relações com outros padrões
 • Muitos projetos começam usando o Factory Method (menos
