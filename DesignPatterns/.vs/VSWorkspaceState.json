@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AbstractFactory",
+    "\\AbstractFactory\\bin",
+    "\\AbstractFactory\\bin\\Debug",
+    "\\AbstractFactory\\bin\\Debug\\net9.0",
+    "\\AbstractFactory\\obj",
+    "\\AbstractFactory\\obj\\Debug",
+    "\\AbstractFactory\\obj\\Debug\\net9.0",
+    "\\AbstractFactory\\obj\\Release",
+    "\\AbstractFactory\\obj\\Release\\net9.0",
+    "\\AbstractFactory\\obj\\Release\\net9.0\\refint"
+  ],
+  "SelectedNode": "\\FactoryMethod1\\ConsoleApp1",
+  "PreviewInSolutionExplorer": false
+}
